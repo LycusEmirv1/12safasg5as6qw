@@ -1,0 +1,7 @@
+---
+  0 error pnpm: 
+    message: {}
+    err: 
+      name: "TypeError"
+      message: "Cannot read property 'aliases' of undefined"
+      stack: "TypeError: Cannot read property 'aliases' of undefined\n    at /opt/nvm/versions/node/v10.13.0/lib/node_modules/pnpm/lib/node_modules/@pnpm/outdated/lib/index.js:77:84\n    at Generator.next (<anonymous>)\n    at /opt/nvm/versions/node/v10.13.0/lib/node_modules/pnpm/lib/node_modules/@pnpm/outdated/lib/index.js:7:71\n    at new Promise (<anonymous>)\n    at __awaiter (/opt/nvm/versions/node/v10.13.0/lib/node_modules/pnpm/lib/node_modules/@pnpm/outdated/lib/index.js:3:12)\n    at Promise.all.pkgs.map (/opt/nvm/versions/node/v10.13.0/lib/node_modules/pnpm/lib/node_modules/@pnpm/outdated/lib/index.js:63:57)\n    at Array.map (<anonymous>)\n    at /opt/nvm/versions/node/v10.13.0/lib/node_modules/pnpm/lib/node_modules/@pnpm/outdated/lib/index.js:63:36\n    at Generator.next (<anonymous>)\n    at /opt/nvm/versions/node/v10.13.0/lib/node_modules/pnpm/lib/node_modules/@pnpm/outdated/lib/index.js:7:71"
